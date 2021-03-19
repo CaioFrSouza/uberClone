@@ -1,0 +1,9 @@
+{
+  "name": "uberClone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<caiodesouza12@gmail.com>",
+  "license": "MIT",
+  "private":"true",
+  "workspaces":["mobile/**"]
+}
